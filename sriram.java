@@ -8,3 +8,6 @@ public class Ram(){
 
 }
 
+public integer int(){
+	integer int= i;
+}
